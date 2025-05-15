@@ -1,0 +1,17 @@
+{
+	"name": "salesdbsource",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "salesdb100-server.database.windows.net",
+			"database": "salesdb100-rg",
+			"encrypt": "optional",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "salesadmin",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDBGMEIwMzQ3LUQzMEQtNDlBRS04RTJCLUUzMkY5MTE4MkQ1NV8wMDdlOTBlZC03NDBlLTQ3ZTItOTBiYi0yNzNlOWQ1ZDg0MTAiDQp9"
+		}
+	}
+}

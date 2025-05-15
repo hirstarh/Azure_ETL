@@ -1,0 +1,9 @@
+{
+	"name": "trainingkakehousedf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33bde493-2093-46f2-b3cf-767d6c184a10",
+		"tenantId": "57841953-1f72-44de-98cf-ff96310f755e"
+	}
+}
