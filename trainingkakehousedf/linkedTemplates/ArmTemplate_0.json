@@ -252,7 +252,7 @@
 									"type": "Expression"
 								},
 								"ADLS_KEY": {
-									"value": "@activity('Get Secret').ouput.value",
+									"value": "@activity('Get Secret').output.value",
 									"type": "Expression"
 								}
 							}
