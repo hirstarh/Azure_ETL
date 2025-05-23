@@ -25,7 +25,7 @@
 		},
 		"Curation Spark Cluster_properties_typeProperties_existingClusterId": {
 			"type": "string",
-			"defaultValue": "0519-033954-6ush260c"
+			"defaultValue": "0523-074208-978iqq55"
 		},
 		"httpsource_properties_typeProperties_url": {
 			"type": "string",
