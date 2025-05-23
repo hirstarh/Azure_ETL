@@ -17,9 +17,8 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "GET",
-					"url": "https://trainingkv100.vault.azure.net/secrets/ADLSKEY/fca_live_uQSzhOWqhr4UkMOIpZJ5bH45TpQvl5TfSdpo8Ug0?api-version=7.0",
+					"url": "https://electrainingkv100.vault.azure.net/secrets/ADLSKEY/fca_live_uQSzhOWqhr4UkMOIpZJ5bH45TpQvl5TfSdpo8Ug0?api-version=7.0",
 					"authentication": {
-						"resource": "https://vault.azure.net",
 						"type": "UserAssignedManagedIdentity"
 					}
 				}
