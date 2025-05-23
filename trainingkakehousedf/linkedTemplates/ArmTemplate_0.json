@@ -178,7 +178,7 @@
 						"typeProperties": {
 							"method": "GET",
 							"headers": {},
-							"url": "https://electrainingkv100.vault.azure.net/secrets/ADLSKEY/dikIH1CQYOsWQmo4F2nfp5rB9mBZ+GGsQS1ag28G5YESDz2/75gI81FTdMfqCR3e20eUJKrTagwV+AStYXpH0g==?api-version=7.0",
+							"url": "https://trainingkvcuration.vault.azure.net/secrets/ADLSKEY/b553c5a73c0843f29184d2d9b501b6f6?api-version=7.5",
 							"authentication": {
 								"type": "UserAssignedManagedIdentity"
 							}
