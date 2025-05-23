@@ -205,7 +205,7 @@
 						},
 						"userProperties": [],
 						"typeProperties": {
-							"notebookPath": "/Users/andrewh_arhsvcs.com#ext#@andrewharhsvcs.onmicrosoft.com/electroniz_curation_notebook",
+							"notebookPath": "/Users/andrewh@arhsvcs.com/electroniz_curation_notebook",
 							"baseParameters": {
 								"STORAGE_ACCOUNT": {
 									"value": "@pipeline().parameters.STORAGE_ACCOUNT",
