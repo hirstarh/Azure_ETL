@@ -17,7 +17,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "GET",
-					"url": "https://electrainingkv100.vault.azure.net/secrets/ADLSKEY/dikIH1CQYOsWQmo4F2nfp5rB9mBZ+GGsQS1ag28G5YESDz2/75gI81FTdMfqCR3e20eUJKrTagwV+AStYXpH0g==?api-version=7.0",
+					"url": "https://trainingkvcuration.vault.azure.net/secrets/CURRAPIKEY/17549f3fd3de4e75aeda9ca0012cbe32",
 					"authentication": {
 						"type": "UserAssignedManagedIdentity"
 					}
